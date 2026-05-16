@@ -46,6 +46,18 @@ s'assurer d'une bonne compatibilité.
 
 ---
 
+### Note importante
+
+Pour tester chaque partie, on utilise `git tag partie1` par exemple avant de lancer tcp_server
+
+Tag disponible:
+
+- parite1
+- partie2
+- partie3
+- partie4
+- partie5
+
 ## Partie 1 — Serveur TCP itératif
 
 ### Description
