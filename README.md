@@ -1,11 +1,11 @@
 # TCP Server UNIX
 
 **Auteurs :**
-- FIONONANA RANDRY Tino
-- RAFANOMEZANTSOA Holinirina Vahatriniaina
-- RAKOTOVAO Nantenaina Elvys
+- FIONONANA RANDRY Tino (N°6 - TCO)
+- RAFANOMEZANTSOA Holinirina Vahatriniaina (N°10 TCO)
+- RAKOTOVAO Nantenaina Elvys (N°18 - TCO)
 
-**Licence 3 Télécommunications**
+**Licence 3 Télécommunications - Université de l'Itasy**
 
 ---
 
