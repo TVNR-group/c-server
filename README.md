@@ -8,6 +8,29 @@
 **Licence 3 Télécommunications**
 
 ---
+## 1. Introduction
+(Ton texte d'introduction ici...)
+
+### 1.1 Environnement de test
+Afin de garantir la portabilité et la robustesse de notre serveur, 
+les tests ont été effectués sur trois environnements distincts :
+
+**Environnement 1 : Station de travail (Fedora)**
+* **OS :** Fedora 43
+* **Compilateur :** GCC 15.2.1
+* **Outil d'analyse :** Valgrind 3.27.0
+
+**Environnement 2 : Station de travail (Ubuntu)**
+* **OS :** Ubuntu 24.04.1 LTS
+* **Compilateur :** GCC 13.3.0
+* **Outil d'analyse :** Valgrind 3.22.0
+
+**Environnement 3 : Machine Virtuelle (Debian)**
+* **OS :** Debian 12
+* **Compilateur :** GCC 12.2.0
+* **Outil d'analyse :** Valgrind 3.19.0
+
+---
 
 ### Environnement de test
 Les codes de ce TP ont été testés sur différents environnemments pour 
