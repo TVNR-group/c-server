@@ -9,9 +9,9 @@
 
 ---
 
-### Environnements de test
-Afin de garantir la portabilité et la robustesse de notre serveur, 
-les tests ont été effectués sur trois environnements distincts :
+### Environnement de test
+Les codes de ce TP ont été testés sur différents environnemments pour 
+s'assurer d'une bonne compatibilité.
 
 **Environnement 1 : Station de travail (Fedora)**
 * **OS :** Fedora 43
@@ -23,17 +23,12 @@ les tests ont été effectués sur trois environnements distincts :
 * **Compilateur :** GCC 13.3.0
 * **Outil d'analyse :** Valgrind 3.22.0
 
-**Environnement 3 : Machine Virtuelle (Debian)**
-* **OS :** Debian 12
-* **Compilateur :** GCC 12.2.0
-* **Outil d'analyse :** Valgrind 3.19.0
-
 ---
 
 ## Partie 1 — Serveur TCP itératif
 
 ### Description
-Serveur TCP minimaliste en mode itératif. Il traite un client à la fois.
+Serveur TCP minimaliste en mode itératif. Il traite un seul client à la fois.
 La socket est créée avec socket(), configurée avec SO_REUSEADDR, bind() sur
 le port 9999 et listen() avec un backlog de 10.
 
