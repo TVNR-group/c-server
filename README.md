@@ -8,10 +8,8 @@
 **Licence 3 Télécommunications**
 
 ---
-## 1. Introduction
-(Ton texte d'introduction ici...)
 
-### 1.1 Environnement de test
+### Environnements de test
 Afin de garantir la portabilité et la robustesse de notre serveur, 
 les tests ont été effectués sur trois environnements distincts :
 
